@@ -1,0 +1,15 @@
+{
+    "ultima_fecha_historica": "2025-11-01",
+    "boxcox_lambda": {
+        "maxima": 4.37767004349876,
+        "minima": 4.265091475665633
+    },
+    "ultimo_valor_boxcox": {
+        "maxima": 478970.110724125,
+        "minima": 63748.480009613035
+    },
+    "ultimo_valor_original": {
+        "maxima": 27.8,
+        "minima": 18.8
+    }
+}
