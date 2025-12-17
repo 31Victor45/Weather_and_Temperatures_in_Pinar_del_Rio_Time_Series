@@ -1,0 +1,13 @@
+# Librerías base para manejo de datos
+pandas==2.2.2
+numpy==1.26.4
+
+# Modelado estadístico y guardado
+statsmodels==0.14.2
+joblib==1.4.2
+
+# Interfaz de usuario y visualización
+streamlit==1.35.0
+
+# Conexión con la API de Open-Meteo
+requests==2.32.2
